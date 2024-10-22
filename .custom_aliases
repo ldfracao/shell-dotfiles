@@ -10,4 +10,7 @@ alias gcm='git commit -m'
 alias gch='git checkout'
 alias gbr='git branch'
 alias glg='git log --all --oneline --graph --decorate'
-
+alias gpl='git pull'
+alias gph='git push'
+alias gsa='git submodule add'
+alias gsu='git submodule update'
